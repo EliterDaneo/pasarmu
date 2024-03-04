@@ -104,7 +104,7 @@
           </p>
           <p>
             <i class="fa fa-map-marker"></i> Jl. Kh. Ahmad Dahlan No.6,
-            Tegalrejo, Jaraksari, Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah
+            Tosarirejo , Jaraksari, Kec. Wonosobo, Kabupaten Wonosobo, Jawa Tengah
             56311
           </p>
         </div>
